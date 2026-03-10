@@ -25,11 +25,20 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) <br>
-![discord](https://dcbadge.limes.pink/api/shield/146459065432801280?theme=clean)
+![discord](https://dcbadge.limes.pink/api/shield/146459065432801280?theme=clean)<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xSghetti/xSghetti/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xSghetti/xSghetti/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/xSghetti/xSghetti/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xsghetti&label=Profile%20views&color=0e75b6&style=flat" alt="xsghetti" /> </p>
+
+
+
 
  
 
