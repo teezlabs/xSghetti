@@ -16,7 +16,7 @@
 
 ---
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsghetti&theme=tokyonight) 
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=teezlabs&theme=tokyonight) 
 
 
 <div align="center">
