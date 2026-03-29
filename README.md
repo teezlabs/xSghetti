@@ -16,10 +16,13 @@
 
 ---
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=teezlabs&theme=tokyonight) 
+
 
 
 <div align="center">
+
+ ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=teezlabs&theme=tokyonight)  
+ 
  
  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
